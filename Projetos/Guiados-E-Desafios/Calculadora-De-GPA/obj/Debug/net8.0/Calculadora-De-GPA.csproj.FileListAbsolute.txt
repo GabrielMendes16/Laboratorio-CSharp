@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Calculadora-De-GPA\bin\Debug\net8.0\Calculadora-De-GPA.exe
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Calculadora-De-GPA\bin\Debug\net8.0\Calculadora-De-GPA.deps.json
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Calculadora-De-GPA\bin\Debug\net8.0\Calculadora-De-GPA.runtimeconfig.json
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Calculadora-De-GPA\bin\Debug\net8.0\Calculadora-De-GPA.dll
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Calculadora-De-GPA\bin\Debug\net8.0\Calculadora-De-GPA.pdb
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Calculadora-De-GPA\obj\Debug\net8.0\Calculadora-De-GPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Calculadora-De-GPA\obj\Debug\net8.0\Calculadora-De-GPA.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Calculadora-De-GPA\obj\Debug\net8.0\Calculadora-De-GPA.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Calculadora-De-GPA\obj\Debug\net8.0\Calculadora-De-GPA.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Calculadora-De-GPA\obj\Debug\net8.0\Calculadora-De-GPA.sourcelink.json
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Calculadora-De-GPA\obj\Debug\net8.0\Calculadora-De-GPA.dll
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Calculadora-De-GPA\obj\Debug\net8.0\refint\Calculadora-De-GPA.dll
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Calculadora-De-GPA\obj\Debug\net8.0\Calculadora-De-GPA.pdb
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Calculadora-De-GPA\obj\Debug\net8.0\Calculadora-De-GPA.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Calculadora-De-GPA\obj\Debug\net8.0\ref\Calculadora-De-GPA.dll
