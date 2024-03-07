@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Saudacao-Personalizada\bin\Debug\net8.0\Saudacao-Personalizada.exe
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Saudacao-Personalizada\bin\Debug\net8.0\Saudacao-Personalizada.deps.json
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Saudacao-Personalizada\bin\Debug\net8.0\Saudacao-Personalizada.runtimeconfig.json
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Saudacao-Personalizada\bin\Debug\net8.0\Saudacao-Personalizada.dll
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Saudacao-Personalizada\bin\Debug\net8.0\Saudacao-Personalizada.pdb
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Saudacao-Personalizada\obj\Debug\net8.0\Saudacao-Personalizada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Saudacao-Personalizada\obj\Debug\net8.0\Saudacao-Personalizada.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Saudacao-Personalizada\obj\Debug\net8.0\Saudacao-Personalizada.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Saudacao-Personalizada\obj\Debug\net8.0\Saudacao-Personalizada.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Saudacao-Personalizada\obj\Debug\net8.0\Saudacao-Personalizada.sourcelink.json
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Saudacao-Personalizada\obj\Debug\net8.0\Saudacao-Personalizada.dll
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Saudacao-Personalizada\obj\Debug\net8.0\refint\Saudacao-Personalizada.dll
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Saudacao-Personalizada\obj\Debug\net8.0\Saudacao-Personalizada.pdb
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Saudacao-Personalizada\obj\Debug\net8.0\Saudacao-Personalizada.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Saudacao-Personalizada\obj\Debug\net8.0\ref\Saudacao-Personalizada.dll
