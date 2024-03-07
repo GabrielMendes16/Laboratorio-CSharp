@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Sistema-De-Avaliacao-Educacional\obj\Debug\net8.0\Sistema-De-Avaliacao-Educacional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Sistema-De-Avaliacao-Educacional\obj\Debug\net8.0\Sistema-De-Avaliacao-Educacional.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Sistema-De-Avaliacao-Educacional\obj\Debug\net8.0\Sistema-De-Avaliacao-Educacional.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Sistema-De-Avaliacao-Educacional\obj\Debug\net8.0\Sistema-De-Avaliacao-Educacional.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Sistema-De-Avaliacao-Educacional\obj\Debug\net8.0\Sistema-De-Avaliacao-Educacional.sourcelink.json
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Sistema-De-Avaliacao-Educacional\bin\Debug\net8.0\Sistema-De-Avaliacao-Educacional.exe
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Sistema-De-Avaliacao-Educacional\bin\Debug\net8.0\Sistema-De-Avaliacao-Educacional.deps.json
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Sistema-De-Avaliacao-Educacional\bin\Debug\net8.0\Sistema-De-Avaliacao-Educacional.runtimeconfig.json
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Sistema-De-Avaliacao-Educacional\bin\Debug\net8.0\Sistema-De-Avaliacao-Educacional.dll
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Sistema-De-Avaliacao-Educacional\bin\Debug\net8.0\Sistema-De-Avaliacao-Educacional.pdb
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Sistema-De-Avaliacao-Educacional\obj\Debug\net8.0\Sistema-De-Avaliacao-Educacional.dll
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Sistema-De-Avaliacao-Educacional\obj\Debug\net8.0\refint\Sistema-De-Avaliacao-Educacional.dll
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Sistema-De-Avaliacao-Educacional\obj\Debug\net8.0\Sistema-De-Avaliacao-Educacional.pdb
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Sistema-De-Avaliacao-Educacional\obj\Debug\net8.0\Sistema-De-Avaliacao-Educacional.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Projetos\Guiados-E-Desafios\Sistema-De-Avaliacao-Educacional\obj\Debug\net8.0\ref\Sistema-De-Avaliacao-Educacional.dll

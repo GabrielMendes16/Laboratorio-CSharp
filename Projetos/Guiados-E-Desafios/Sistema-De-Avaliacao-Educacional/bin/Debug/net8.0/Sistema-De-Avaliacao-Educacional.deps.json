@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sistema-De-Avaliacao-Educacional/1.0.0": {
+        "runtime": {
+          "Sistema-De-Avaliacao-Educacional.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema-De-Avaliacao-Educacional/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
