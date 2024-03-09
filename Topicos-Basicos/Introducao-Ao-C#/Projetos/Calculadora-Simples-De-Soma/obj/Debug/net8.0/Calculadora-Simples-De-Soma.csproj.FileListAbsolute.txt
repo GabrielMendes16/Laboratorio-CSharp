@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Calculadora-Simples-De-Soma\bin\Debug\net8.0\Calculadora-Simples-De-Soma.exe
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Calculadora-Simples-De-Soma\bin\Debug\net8.0\Calculadora-Simples-De-Soma.deps.json
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Calculadora-Simples-De-Soma\bin\Debug\net8.0\Calculadora-Simples-De-Soma.runtimeconfig.json
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Calculadora-Simples-De-Soma\bin\Debug\net8.0\Calculadora-Simples-De-Soma.dll
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Calculadora-Simples-De-Soma\bin\Debug\net8.0\Calculadora-Simples-De-Soma.pdb
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Calculadora-Simples-De-Soma\obj\Debug\net8.0\Calculadora-Simples-De-Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Calculadora-Simples-De-Soma\obj\Debug\net8.0\Calculadora-Simples-De-Soma.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Calculadora-Simples-De-Soma\obj\Debug\net8.0\Calculadora-Simples-De-Soma.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Calculadora-Simples-De-Soma\obj\Debug\net8.0\Calculadora-Simples-De-Soma.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Calculadora-Simples-De-Soma\obj\Debug\net8.0\Calculadora-Simples-De-Soma.sourcelink.json
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Calculadora-Simples-De-Soma\obj\Debug\net8.0\Calculadora-Simples-De-Soma.dll
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Calculadora-Simples-De-Soma\obj\Debug\net8.0\refint\Calculadora-Simples-De-Soma.dll
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Calculadora-Simples-De-Soma\obj\Debug\net8.0\Calculadora-Simples-De-Soma.pdb
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Calculadora-Simples-De-Soma\obj\Debug\net8.0\Calculadora-Simples-De-Soma.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Calculadora-Simples-De-Soma\obj\Debug\net8.0\ref\Calculadora-Simples-De-Soma.dll
