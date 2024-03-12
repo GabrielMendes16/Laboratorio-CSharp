@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Idade-Futura\bin\Debug\net8.0\Idade-Futura.exe
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Idade-Futura\bin\Debug\net8.0\Idade-Futura.deps.json
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Idade-Futura\bin\Debug\net8.0\Idade-Futura.runtimeconfig.json
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Idade-Futura\bin\Debug\net8.0\Idade-Futura.dll
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Idade-Futura\bin\Debug\net8.0\Idade-Futura.pdb
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Idade-Futura\obj\Debug\net8.0\Idade-Futura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Idade-Futura\obj\Debug\net8.0\Idade-Futura.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Idade-Futura\obj\Debug\net8.0\Idade-Futura.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Idade-Futura\obj\Debug\net8.0\Idade-Futura.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Idade-Futura\obj\Debug\net8.0\Idade-Futura.sourcelink.json
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Idade-Futura\obj\Debug\net8.0\Idade-Futura.dll
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Idade-Futura\obj\Debug\net8.0\refint\Idade-Futura.dll
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Idade-Futura\obj\Debug\net8.0\Idade-Futura.pdb
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Idade-Futura\obj\Debug\net8.0\Idade-Futura.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Idade-Futura\obj\Debug\net8.0\ref\Idade-Futura.dll

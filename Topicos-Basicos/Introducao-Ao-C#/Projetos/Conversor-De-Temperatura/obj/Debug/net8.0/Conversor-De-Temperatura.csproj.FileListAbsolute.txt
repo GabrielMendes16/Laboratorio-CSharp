@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Conversor-De-Temperatura\bin\Debug\net8.0\Conversor-De-Temperatura.exe
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Conversor-De-Temperatura\bin\Debug\net8.0\Conversor-De-Temperatura.deps.json
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Conversor-De-Temperatura\bin\Debug\net8.0\Conversor-De-Temperatura.runtimeconfig.json
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Conversor-De-Temperatura\bin\Debug\net8.0\Conversor-De-Temperatura.dll
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Conversor-De-Temperatura\bin\Debug\net8.0\Conversor-De-Temperatura.pdb
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Conversor-De-Temperatura\obj\Debug\net8.0\Conversor-De-Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Conversor-De-Temperatura\obj\Debug\net8.0\Conversor-De-Temperatura.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Conversor-De-Temperatura\obj\Debug\net8.0\Conversor-De-Temperatura.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Conversor-De-Temperatura\obj\Debug\net8.0\Conversor-De-Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Conversor-De-Temperatura\obj\Debug\net8.0\Conversor-De-Temperatura.sourcelink.json
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Conversor-De-Temperatura\obj\Debug\net8.0\Conversor-De-Temperatura.dll
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Conversor-De-Temperatura\obj\Debug\net8.0\refint\Conversor-De-Temperatura.dll
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Conversor-De-Temperatura\obj\Debug\net8.0\Conversor-De-Temperatura.pdb
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Conversor-De-Temperatura\obj\Debug\net8.0\Conversor-De-Temperatura.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Introducao-Ao-C#\Projetos\Conversor-De-Temperatura\obj\Debug\net8.0\ref\Conversor-De-Temperatura.dll
