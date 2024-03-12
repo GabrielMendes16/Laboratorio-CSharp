@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Estruturas-De-Controle\projetos\jogo-da-moeda\bin\Debug\net8.0\Jogo- Da- Moeda.exe
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Estruturas-De-Controle\projetos\jogo-da-moeda\bin\Debug\net8.0\Jogo- Da- Moeda.deps.json
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Estruturas-De-Controle\projetos\jogo-da-moeda\bin\Debug\net8.0\Jogo- Da- Moeda.runtimeconfig.json
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Estruturas-De-Controle\projetos\jogo-da-moeda\bin\Debug\net8.0\Jogo- Da- Moeda.dll
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Estruturas-De-Controle\projetos\jogo-da-moeda\bin\Debug\net8.0\Jogo- Da- Moeda.pdb
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Estruturas-De-Controle\projetos\jogo-da-moeda\obj\Debug\net8.0\Jogo- Da- Moeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Estruturas-De-Controle\projetos\jogo-da-moeda\obj\Debug\net8.0\Jogo- Da- Moeda.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Estruturas-De-Controle\projetos\jogo-da-moeda\obj\Debug\net8.0\Jogo- Da- Moeda.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Estruturas-De-Controle\projetos\jogo-da-moeda\obj\Debug\net8.0\Jogo- Da- Moeda.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Estruturas-De-Controle\projetos\jogo-da-moeda\obj\Debug\net8.0\Jogo- Da- Moeda.sourcelink.json
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Estruturas-De-Controle\projetos\jogo-da-moeda\obj\Debug\net8.0\Jogo- Da- Moeda.dll
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Estruturas-De-Controle\projetos\jogo-da-moeda\obj\Debug\net8.0\refint\Jogo- Da- Moeda.dll
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Estruturas-De-Controle\projetos\jogo-da-moeda\obj\Debug\net8.0\Jogo- Da- Moeda.pdb
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Estruturas-De-Controle\projetos\jogo-da-moeda\obj\Debug\net8.0\Jogo- Da- Moeda.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Remoto-C#\Laboratorio-CSharp\Topicos-Basicos\Estruturas-De-Controle\projetos\jogo-da-moeda\obj\Debug\net8.0\ref\Jogo- Da- Moeda.dll
